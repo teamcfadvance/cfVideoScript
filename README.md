@@ -2,11 +2,11 @@
 cfVideoScript
 =============
 
-Hi, My Name is Gavy randhawa, I had created this Videoscript Long back and in working condition.
+Hi, My Name is Gavy Randhawa, I had created this Videoscript a long time ago and it's in good working condition.
 
-Now i am giving this Project on Open Source List for all Develoeprs to use it any way they want. We should enhance this script to make it best and make use of multiple API's rather than only to specific Youtube API Only. 
+Now I am giving this Project on Open Source List for all Develoeprs to use in any way they want. We should enhance this script to make it best and make use of multiple API's rather than only to specifically YouTube. 
 
-So cheers Guys and Let's Do it 
+So cheers Guys and Let's Do it!
 
 Gavy Randhawa
 http://www.randhawaworld.com
